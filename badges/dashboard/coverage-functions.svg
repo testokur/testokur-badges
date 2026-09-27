@@ -1,20 +1,20 @@
-<svg width="170.5" height="20" viewBox="0 0 1705 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Coverage functions: 75.17%">
-  <title>Coverage functions: 75.17%</title>
+<svg width="177.5" height="20" viewBox="0 0 1775 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Coverage functions: 100.00%">
+  <title>Coverage functions: 100.00%</title>
   <linearGradient id="a" x2="0" y2="100%">
     <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <mask id="m"><rect width="1705" height="200" rx="30" fill="#FFF"/></mask>
+  <mask id="m"><rect width="1775" height="200" rx="30" fill="#FFF"/></mask>
   <g mask="url(#m)">
     <rect width="1165" height="200" fill="#555"/>
-    <rect width="540" height="200" fill="#DB1" x="1165"/>
-    <rect width="1705" height="200" fill="url(#a)"/>
+    <rect width="610" height="200" fill="#3C1" x="1165"/>
+    <rect width="1775" height="200" fill="url(#a)"/>
   </g>
   <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
     <text x="60" y="148" textLength="1065" fill="#000" opacity="0.25">Coverage functions</text>
     <text x="50" y="138" textLength="1065">Coverage functions</text>
-    <text x="1220" y="148" textLength="440" fill="#000" opacity="0.25">75.17%</text>
-    <text x="1210" y="138" textLength="440">75.17%</text>
+    <text x="1220" y="148" textLength="510" fill="#000" opacity="0.25">100.00%</text>
+    <text x="1210" y="138" textLength="510">100.00%</text>
   </g>
   
 </svg>
